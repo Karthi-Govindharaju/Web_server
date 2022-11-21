@@ -1,8 +1,8 @@
 # Developing a Simple Webserver
 
-## AIM:
+# AIM:
 
-To develop a simple webserver to serve html pages.
+To develop a simple webserver to serve html programming pages.
 
 ## DESIGN STEPS:
 
@@ -31,3 +31,4 @@ Testing the webserver
 ## OUTPUT:
 
 ## RESULT:
+The program is executed succesfully
