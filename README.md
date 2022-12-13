@@ -29,7 +29,7 @@ Testing the webserver
 # PROGRAM:
 
 # OUTPUT:
-![IMAGE](./images/webserver1.png)
+
 # RESULT:
 
 The program is executed succesfully
