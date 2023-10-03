@@ -25,7 +25,6 @@ Serving the HTML pages.
 ## Step 5:
 
 Testing the webserver
-[GitHub](http://github.com)
 # PROGRAM:
 Type your code here
 # OUTPUT:
